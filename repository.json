@@ -1,5 +1,5 @@
 {
-  "name": "Nowqtt Gateway Homeassistant Add-on",
-  "url": "https://github.com/ChrisC132/NowqttGatewayHomeassistantAddon",
+  "name": "Nowqtt Gateway",
+  "url": "https://github.com/Fugri/NowqttGateway",
   "maintainer": "Christian Costa"
 }
